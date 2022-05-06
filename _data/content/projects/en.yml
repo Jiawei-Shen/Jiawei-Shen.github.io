@@ -12,14 +12,16 @@ page_data:
     back_color: "lightblue"
 
   category:
-    - title: "Example"
-      type: id_example
+    - title: "Bioinformatics"
+      type: id_Bioinfo
       color: "gray"
-    - title: "Picture"
-      type: id_picture
-      color: "#62b462"
-    - title: "Quote"
-      type: id_quote
-      color: "#2FD0ED"
 
   list:
+  - type: id_Bioinfo
+      project_name: "Repeat Browser Project"
+      project_excerpt: "Repeat Browser"
+      img: ":Repeat_browser.png"
+      img_title: "img Repeat_browser"
+      date: "2022-05-03"
+      post: |
+        Just Started.
