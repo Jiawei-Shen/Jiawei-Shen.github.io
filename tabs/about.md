@@ -34,9 +34,14 @@ img: ":about.jpg"
 #published: false
 ---
 
-{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+Ph.D. Candidate
 
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
+Department of Computer Science and Engineering
 
-{{ website_info_text_second }}
+Washington University in St. Louis
+
+**Academic Advisors**: Ting Wang, Daogfeng Li
+
+**E-mail**: jiawei.s@wustl.edu
+
+[**My CV**](../assets/CV.pdf)
