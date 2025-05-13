@@ -155,11 +155,11 @@ links:
   info_text: Info
 
 # for projects layout
-projects:
-  title: Projects
-  button_name: Projects
-  read_more_text: Read more
-  read_less_text: Read less
+#projects:
+#  title: Projects
+#  button_name: Projects
+#  read_more_text: Read more
+#  read_less_text: Read less
 
 # for privacy-policy layout
 privacy-policy:
